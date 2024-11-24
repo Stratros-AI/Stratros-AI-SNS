@@ -129,6 +129,33 @@ Swap:
 
     maximum_participant_icp: 100_000 tokens
 
+    restricted_countries:
+        - AF  
+        - BY
+        - BA
+        - BI
+        - CF
+        - KP
+        - CD
+        - CU
+        - IR
+        - IQ
+        - LB
+        - LY
+        - ML
+        - ME
+        - MM
+        - NI
+        - RU
+        - RS
+        - SO
+        - SD
+        - SY
+        - UA
+        - VE
+        - YE
+        - ZW
+        
     confirmation_text: >
       I confirm my understanding of the responsibilities and risks associated with participating in this token swap.
 
